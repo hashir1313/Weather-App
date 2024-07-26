@@ -1,2 +1,4 @@
 # Weather App
- A simple weather app in python with openweathermap api.
+
+
+ A simple weather app in python with openweathermap api by Muhammad Hashir.
